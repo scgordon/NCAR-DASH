@@ -1,7 +1,4 @@
 pandas
 matplotlib
 requests
-bokeh
-bokeh.charts
-bokeh.plotting
-bokeh.models 
+ 
