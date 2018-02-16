@@ -2,3 +2,8 @@ pandas
 matplotlib
 requests
 bokeh
+bokeh.charts import output_notebook, show, Bar
+bokeh.plotting import figure
+bokeh.models import Range1d, HoverTool, ResizeTool
+bokeh.charts import defaults
+bokeh.models import Legend
