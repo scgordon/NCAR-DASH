@@ -1,4 +1,4 @@
 pandas
 matplotlib
-./notebook/metadataEvaluation
+./notebook/metadataEvaluation.py
 bokeh
