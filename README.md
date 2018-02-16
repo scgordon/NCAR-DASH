@@ -14,4 +14,5 @@ The Demonstration notebook directly addresses the information needs listed below
 * Create lists of what content occurs at a specific element and count the unique values to see what variations occurr at selected elements. Useful for identifiying opportunities to ensure consistency. Also useful to see if nonstandard element content has a standardized location
 
 Link below to interactive webbuild of either notebook
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/scgordon/NCAR-DASH/master)
