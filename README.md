@@ -9,7 +9,7 @@ The Evaluation notebook should allow the user to gain an understanding of metada
 
 https://github.com/scgordon/NCAR-DASH/blob/master/notebook/DSET_DASH_Evaluation.ipynb
 
-The Presentation notebook directly addresses the information needs listed below and shows the location the csv files are for each data product for further visualization in other environments.
+The Presentation notebook directly addresses the information needs listed below and shows the location the csv files are for each data product for further visualization in other environments. In this notebook you just hold shift and press return/enter, or make selections from dropdown.
 
 https://github.com/scgordon/NCAR-DASH/blob/master/notebook/DSET_DASH_Presentation.ipynb
 
