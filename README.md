@@ -25,6 +25,6 @@ The functions used in both Notebooks attempt to:
 
 * count the unique values of content at a selected element to see what variations occurr at selected elements. Useful for identifiying opportunities to ensure consistency. Also useful to see if nonstandard element content has a standardized location
 
-Link below to interactive webbuild of the repository via MyBinder which opens the Presentation Notebook particularly for the third and fourth bullet points:
+Link below to interactive webbuild of the repository via MyBinder which opens the Presentation Notebook particularly useful for exploration of the fourth and fifth bullet points:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/scgordon/NCAR-DASH/master?filepath=%2Fnotebook%2FDSET_DASH_Presentation.ipynb)
